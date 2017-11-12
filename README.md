@@ -1,4 +1,4 @@
-# Angulib - AngularCLI module packager
+# Angulib - AngularCLI module to library packager
 
 Bash script for package [AngularCLI](https://cli.angular.io/) module into Angular libray for npm or local dev.
 
